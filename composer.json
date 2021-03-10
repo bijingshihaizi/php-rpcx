@@ -16,7 +16,7 @@
 
   "autoload": {
     "psr-4": {
-      "php\\rpcx": "src/"
+      "php\\rpcx\\": "src/"
     }
   },
   
